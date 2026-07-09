@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(245, 180, 0);
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+p {
+    font-size: 20px;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+p.double {
+    border-style: double;
+}
+
+.list {
+    font-style: italic;
+}
